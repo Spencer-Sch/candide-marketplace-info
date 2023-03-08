@@ -13,7 +13,7 @@ We're building an NFT rental marketplace for P2E games
 - ???
   <br>
 
-<img src="./assets/containment.gif" width="800px" />
+<img src="./assets/containment.gif" width="500px" />
 
 ## About Candide
 
