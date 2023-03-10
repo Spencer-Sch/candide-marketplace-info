@@ -2,16 +2,16 @@
 
 We're building an NFT rental marketplace for P2E games 🕹️
 
-#### 🚨 The marketplace is now in beta testing! 🚨
+#### The marketplace is now in beta testing! 🚀
 
-### <a href="https://marketplace.candide.site/">marketplace.candide.site</a> ⚠️ site under active development ⚠️
+#### <a href="https://marketplace.candide.site/">marketplace.candide.site</a> ⚠️ site under active development ⚠️
 
----
+<br>
 
 ## Table of Contents
 
 <details open>
-<summary>Navigation</summary>
+<summary></summary>
 
 - [About Candide](#about-candide)
 - [The Front-end](#the-front-end)
@@ -24,7 +24,7 @@ We're building an NFT rental marketplace for P2E games 🕹️
 
 </details>
 
----
+<br>
 
 ## About Candide
 
@@ -42,10 +42,9 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 [<img align="left" alt="Candide | LinkedIn" width="35px" src="https://algomine.pl/wp-content/uploads/LinkedIn-Icon-380x380.png" />][linkedin]
 [<img align="left" alt="Candide | Twitter" width="35px" src="https://www.seekpng.com/png/full/5-54303_twitter-introduces-a-new-app-for-windows-twitter.png" />][twitter]
 [<img align="left" alt="Candide | Instagram" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
-<br>
-<br>
 
----
+<br>
+<br>
 
 ## The Front-end
 
@@ -60,7 +59,7 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 
 ### My Role
 
-I fill the role of sole designer & front-end engineer. I built the entire UI from scratch using no component libraries. All the components have been made from scratch using Tailwind.css.
+I fill the role of sole designer & front-end engineer. I built the UI and all of the components from scratch using Tailwind.css.
 
 <!-- <a href="https://marketplace.candide.site/" target="_blank">
 <img src="./assets/candide-marketplace.png" alt="candide landing page screen shot" width="500px" />
