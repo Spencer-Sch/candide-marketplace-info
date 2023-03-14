@@ -6,7 +6,8 @@ We're building an NFT rental marketplace for P2E games 🕹️
 
 🚀 **The marketplace is now in beta testing!**
 
-🟣 Note: The project files are housed in a private repo on Gitlab
+🟣 Note: The project files are hosted in a private repo on Gitlab
+
 
 
 ## Table of Contents
