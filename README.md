@@ -82,6 +82,8 @@ A video walkthrough of Candide's site and beta test process.
 
 #### 🚨 The following images demonstrate features & functionality I built for the site. These demos are populated with static data and assets used in development and may not accurately represent the current state of the project. 🚨
 
+<br>
+
 ### NFT Card & Details Page
 
 - All the components are dynamic and reusable
@@ -90,6 +92,8 @@ A video walkthrough of Candide's site and beta test process.
 <img src="./assets/axie-display_150speed.gif" />
 
 [Back to top](#candide-marketplace)
+
+<br>
 
 ### Dynamic Popover Screen Containment
 
@@ -108,6 +112,8 @@ A video walkthrough of Candide's site and beta test process.
 
 [Back to top](#candide-marketplace)
 
+<br>
+
 ### Sorting and Filtering Tools
 
 - Custom select box components built from scratch along with filter chips which display all filters currently being applied
@@ -117,6 +123,8 @@ A video walkthrough of Candide's site and beta test process.
 <img src="./assets/axie-filters_speed150.gif" />
 
 [Back to top](#candide-marketplace)
+
+<br>
 
 ### Form and Validation
 
