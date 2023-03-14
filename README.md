@@ -17,6 +17,7 @@ We're building an NFT rental marketplace for P2E games 🕹️
 - [The Front-end](#the-front-end)
   - [Technologies Used](#technologies-used)
   - [My Role](#my-role)
+  - [Media](#media)
 - [Features](#features-alpha-version)
   - [NFT Card & Details Page](#nft-card--details-page)
   - [Dynamic Popover Screen Containment](#dynamic-popover-screen-containment)
@@ -49,7 +50,6 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 
 ## The Front-end
 
-<!-- #### 🚨 The following images demonstrate features & functionality I built for the site. These demos are populated with static data and assets used in development and do not accurately represent the current state of the project. 🚨 -->
 
 ### Technologies Used:
 
@@ -60,11 +60,21 @@ The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT
 
 ### My Role
 
-I fill the role of sole designer & front-end engineer. I built the UI and all of the components from scratch using Tailwind.
+I fill the role of sole designer & front-end engineer. I built the UI and all of the components from scratch.
 
-<!-- <a href="https://marketplace.candide.site/" target="_blank">
-<img src="./assets/candide-marketplace.png" alt="candide landing page screen shot" width="500px" />
-</a> -->
+### Media
+
+A video walkthrough of Candide's site and beta test process.
+<br>
+
+🟣 Note: the video is in french
+<br>
+
+<a href="https://www.youtube.com/watch?v=khgYVcq7hG8">
+<img src="./assets/marketplace-review-thumbnail.png" width="500px" alt="candide marketplace beta test review" />
+</a>
+
+[Back to top](#candide-marketplace)
 
 ## Features (alpha version)
 
@@ -73,7 +83,7 @@ I fill the role of sole designer & front-end engineer. I built the UI and all of
 ### NFT Card & Details Page
 
 - All the components are dynamic and reusable
-- Each axie's stats and traits in the popover and on the details page are dynamically selected along with all the icons.
+- Each axie's stats, traits, and icons, in both the popover and on the details page, are dynamically selected and styled.
 
 <img src="./assets/axie-display_150speed.gif" />
 
@@ -86,7 +96,7 @@ I fill the role of sole designer & front-end engineer. I built the UI and all of
 
 2. `getBoundingClientRect` is used to get the appropriate coordinates of the popover and the containing window
 
-3. If the coordinates of the popover exceed the limit of the window then the position of the popover is altered to be within the appropriate boundaries
+3. If the coordinates of the popover exceed the limit of the window then the position of the popover is adjusted to be within the appropriate boundaries
 
 4. The `🛈` icon is hovered and the popover transitions into view using `opacity` and `scale`
 
