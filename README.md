@@ -2,10 +2,11 @@
 
 We're building an NFT rental marketplace for P2E games 🕹️
 
-#### The marketplace is now in beta testing! 🚀
+#### <a href="https://marketplace.candide.site/">marketplace.candide.site</a> ⚠️ site under active development ⚠️
 
-#### <a href="https://marketplace.candide.site/">marketplace.candide.site</a> 🛒
-⚠️ site under active development ⚠️
+🚀 **The marketplace is now in beta testing!**
+
+🟣 Note: The project files are housed in a private repo on Gitlab
 
 
 ## Table of Contents
@@ -29,7 +30,7 @@ We're building an NFT rental marketplace for P2E games 🕹️
 
 ## About Candide
 
-### We are a small, international, team that is passionate about providing value to p2e players.
+### We are a small, international team that is passionate about providing value to p2e players.
 
 The Candide marketplace will allow users to rent p2e NFTs for their favorite NFT games.
 
