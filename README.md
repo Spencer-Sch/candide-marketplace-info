@@ -4,7 +4,7 @@ We're building an NFT rental marketplace for P2E games 🕹️
 
 #### <a href="https://marketplace.candide.site/">marketplace.candide.site</a> ⚠️ site under active development ⚠️
 
-🚀 **The marketplace is now in beta testing!**
+#### 🔥 First round of [Beta testing](https://crew3.xyz/c/candide/invite/nF9rv2FKO42BoB9m0I78l): complete
 
 🟣 Note: The project files are hosted in a private repo on Gitlab
 
