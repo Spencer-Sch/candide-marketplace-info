@@ -66,14 +66,11 @@ I fill the role of sole designer & front-end engineer. I built the UI and all of
 
 ### Media
 
-A video walkthrough of Candide's site and beta test process.
+A video tour of the Candide marketplace.
 <br>
 
-🟣 Note: the video is in french
-<br>
-
-<a href="https://www.youtube.com/watch?v=khgYVcq7hG8">
-<img src="./assets/marketplace-review-thumbnail.png" width="500px" alt="candide marketplace beta test review" />
+<a href="https://www.youtube.com/watch?v=e4NnbmR5RQU">
+<img src="./assets/marketplace-tour-thumbnail.png" width="500px" alt="candide marketplace tour" />
 </a>
 
 [Back to top](#candide-marketplace)
